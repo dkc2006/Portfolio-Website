@@ -370,9 +370,10 @@ section .title::after{
 .skills-content .right .js::before{
     width: 80%;
 }
-.skills-content .right .php::before{
-    width: 50%;
+.skills-content .right .java::before {
+    width: 75%;
 }
+
 .skills-content .right .mysql::before{
     width: 70%;
 }
@@ -614,3 +615,5 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+
